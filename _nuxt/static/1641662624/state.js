@@ -1,0 +1,1 @@
+window.__NUXT__=(function(a,b,c){return {staticAssetsBase:"\u002F_nuxt\u002Fstatic\u002F1641662624",layout:"default",error:a,state:{toursDetail:a,toursData:[],toursBarIsOpen:b,error:a,actionData:a,canAxesData:false,checkDestination:a,activeDest:a},serverRendered:b,routePath:c,config:{_app:{basePath:c,assetsPath:"\u002F_nuxt\u002F",cdnURL:a}},globalRefs:{}}}(null,true,"\u002F"));

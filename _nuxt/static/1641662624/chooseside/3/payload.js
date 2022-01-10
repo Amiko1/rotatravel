@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/chooseside/3", {data:[{}],fetch:{},mutations:[]});
